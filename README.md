@@ -1,0 +1,1 @@
+This project analyzes climate data for east african countries.

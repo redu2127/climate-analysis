@@ -1,0 +1,11 @@
+data/
+__pycache__/
+.pyc
+venv/
+env/
+.ipynb_checkpoints
+.VS code
+.csv
+.DS_store
+Thumb.db
+!data/sample.csv
