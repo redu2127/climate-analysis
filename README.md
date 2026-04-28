@@ -57,6 +57,8 @@ The following outputs are automatically generated when running the analysis note
 2. Data is cleaned (missing values handled, duplicates removed)
 3. Cleaned data is saved to data/processed/
 4. Visualizations are created and saved to plots/
+## Dashboard Preview
+- [Dashboard](dashboard_screenshots/dashboard.png)
 
 
 
